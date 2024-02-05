@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  
     <url>
-        <loc>http://www.ckserve.com/</loc>
+        <loc>http://www.ckserve.com</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
  
     <url>
-        <loc>http://www.ckserve.com/404.html</loc>
+        <loc>http://www.ckserve.com/404</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://www.ckserve.com/about.html</loc>
+        <loc>http://www.ckserve.com/about</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>http://www.ckserve.com/project-hl.html</loc>
+        <loc>http://www.ckserve.com/project-hl</loc>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url> 
     <url>
-        <loc>http://www.ckserve.com/project-kh.html</loc>
+        <loc>http://www.ckserve.com/project-kh</loc>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url> 
     <url>
-        <loc>http://www.ckserve.com/project-js.html</loc>
+        <loc>http://www.ckserve.com/project-js</loc>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>http://www.ckserve.com/project.html</loc>
+        <loc>http://www.ckserve.com/project</loc>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>http://www.ckserve.com/service.html</loc>
+        <loc>http://www.ckserve.com/service</loc>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>http://www.ckserve.com/testimonial.html</loc>
+        <loc>http://www.ckserve.com/testimonial</loc>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>
     </url>
 
     <url>
-        <loc>http://www.ckserve.com/contact.html</loc>
+        <loc>http://www.ckserve.com/contact</loc>
         <changefreq>monthly</changefreq>
         <priority>0.2</priority>
     </url>
